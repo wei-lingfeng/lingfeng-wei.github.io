@@ -15,7 +15,6 @@ keep_files:
 
 # Site settings
 title: Lingfeng's Homepage
-subtitle: "Lingfeng's Homepage"
 url: "http://lingfeng-wei.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
