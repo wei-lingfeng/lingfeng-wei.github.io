@@ -158,6 +158,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #About .block p {
   color: #7B7B7B;
   padding-top: 20px;
+  text-align: justify;
 }
 #About .block img {
   padding-top: 20px;
