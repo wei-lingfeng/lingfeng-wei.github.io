@@ -145,27 +145,27 @@ font header .navbar-default .navbar-nav li a:hover {
 /*--
 	wrapper Start
 --*/
-#intro {
+#About {
   padding-top: 150px;
   padding-bottom: 200px;
 }
-#intro .block h2 {
+#About .block h2 {
   padding-top: 35px;
   line-height: 27px;
   margin: 0;
 }
-#intro .block p {
+#About .block p {
   color: #7B7B7B;
   padding-top: 20px;
 }
-#intro .block img {
+#About .block img {
   padding-left: 40px;
   width: 100%;
 }
-#intro .section-title {
+#About .section-title {
   margin-bottom: 0px;
 }
-#intro .section-title p {
+#About .section-title p {
   padding-top: 20px;
 }
 /*--
