@@ -186,10 +186,18 @@ px      68    160    252    */
   #slider .block {
     padding-left: 0px;
   }
-  #slider .block h1 {
-    font-size: 120%;
-    letter-spacing: 5px;
+  @media only screen and (min-width: 350px) {
+    #slider .block h1 {
+      font-size: 120%;
+      letter-spacing: 5px;
+    }
   }
+  @media only screen and (max-width: 350px) {
+    #slider .block h1 {
+      font-size: 100%;
+      letter-spacing: 5px;
+    }
+  }	
   #slider .block p {
     font-size: 80%;
   }
@@ -403,5 +411,25 @@ px      68    160    252    344    436    */
 	Overrides styles for devices with a 
 	device-pixel-ratio of 2+, such as iPhone 4.
 -----------------------------------------------    */
-@media only screen and (max-device-width : 897px) {#slider{background-size: 150% auto; background-position-x: center;}}
-@media only screen and (max-device-width : 897px) {#slider{background-size: 150% auto; background-position-x: center;}}
+@media only screen and (max-device-width : 897px) and (min-device-width: 350px) {
+  #slider {
+    background-size: 150% auto;
+    background-position-x: center;
+  }
+
+  #feature {
+    background-size: 150% auto;
+    background-position-x: center;
+  }
+}
+@media only screen and (max-device-width : 350px) {
+  #slider {
+    background-size: 160% auto;
+    background-position-x: center;
+  }
+
+  #feature {
+    background-size: 160% auto;
+    background-position-x: center;
+  }
+}
