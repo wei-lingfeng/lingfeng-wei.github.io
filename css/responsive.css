@@ -16,7 +16,7 @@ px      68    160    252    344    436    528    620    712    */
   /*---------------------------------------------
 					Index Start 
 -----------------------------------------------*/
-  #About .block img {
+  .module .block img {
     width: 50%;
   }	
   /*--
@@ -209,21 +209,21 @@ px      68    160    252    */
   }
 
 /*--
-	About Start
+	module Start
 --*/
-  #About {
+  .module {
     padding-top: 5%;
     padding-bottom: 5%;
   }
-  #About .block h2 {
+  .module .block h2 {
     text-align: left;
     font-size: 120%;
   }
-  #About .block p {
+  .module .block p {
     padding-top: 2%;
     line-height: 170%;
   }
-  #About .block img {
+  .module .block img {
     width: 50%;
   }
 
