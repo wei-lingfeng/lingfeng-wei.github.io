@@ -111,7 +111,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding: 20% 0 25% 0;
   position: relative;
 }
-@media only screen and (max-width : 992px)  {#slider{background-attachment: scroll;}}
+
 #slider:before {
   content: "";
   position: absolute;
@@ -124,17 +124,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background: linear-gradient(to left, #8b86a3, #031c49);
   opacity: 0.4;
 }
-#slider:after {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0;
-  bottom: 0;
-  right: 0;
-  width: 100%;
-  height: 100%;
-  background: transparent;
-}
+
 #slider .block {
   color: #E3E3E4;
 }
