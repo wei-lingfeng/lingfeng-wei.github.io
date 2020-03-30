@@ -77,6 +77,10 @@ px      68    160    252    344    436    528    620    712    */
   #slider-work .block p {
     font-size: 15px;
   }
+  #slider .block h1 {
+    font-size: 150%;
+    letter-spacing: 6px;
+  }
   /*--
 	portfolio Start 
 --*/
