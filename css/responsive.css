@@ -17,6 +17,41 @@ px      68    160    252    344    436    528    620    712    */
 					Index Start 
 -----------------------------------------------*/
   /*--
+	About Start
+--*/
+  #About {
+    padding-top: 10%;
+    padding-bottom: 10%;
+  }
+  #About .block h2 {
+    text-align: left;
+    font-size: 120%;
+  }
+  #About .block p {
+    padding-top: 2%;
+    line-height: 170%;
+  }
+  #About .block img {
+    width: 50%;
+  }
+
+/*--
+	feature starts
+--*/
+  #feature {
+    padding-top: 10%;
+    padding-bottom: 10%;
+  }
+  #feature .block h2 {
+    text-align: left;
+    font-size: 120%;
+  }
+  #feature .block p {
+    padding-top: 2%;
+    line-height: 170%;
+  }
+	
+  /*--
 	wrapper Start 
 --*/
   #wrapper {
