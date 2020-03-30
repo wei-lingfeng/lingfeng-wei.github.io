@@ -140,7 +140,7 @@ font header .navbar-default .navbar-nav li a:hover {
   text-align: center;
 }
 #slider .block p {
-  font-size: 23px;
+  font-size: 150%;
   line-height: 40px;
   font-family: 'Arial', sans-serif;
   font-weight: 300;
