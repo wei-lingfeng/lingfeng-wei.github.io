@@ -110,8 +110,8 @@ font header .navbar-default .navbar-nav li a:hover {
   background-position: 10% 0%;
   padding: 20% 0 25% 0;
   position: relative;
-  @media only screen and (min-width : 992px)  {background-attachment: scroll;}
 }
+@media only screen and (max-width : 992px)  {#slider{background-attachment: scroll;}}
 #slider:before {
   content: "";
   position: absolute;
