@@ -191,26 +191,17 @@ px      68    160    252    */
       font-size: 100%;
       letter-spacing: 5px;
     }
-    #slider .block p {
-      font-size: 80%;
-    }
   }
   @media only screen and (min-width: 350px) and (max-width: 450px) {
     #slider .block h1 {
       font-size: 120%;
       letter-spacing: 5px;
     }
-    #slider .block p {
-      font-size: 80%;
-    }
   }
   @media only screen and (min-width: 450px) {
     #slider .block h1 {
       font-size: 160%;
       letter-spacing: 5px;
-    }
-    #slider. block p {
-      font-size: 120%;
     }
   }
 
@@ -431,7 +422,7 @@ px      68    160    252    344    436    */
   }
 
   #feature {
-    background-size: 150% auto;
+    background-size: 152% auto;
     background-position-x: center;
   }
 }
