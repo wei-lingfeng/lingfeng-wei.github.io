@@ -16,7 +16,9 @@ px      68    160    252    344    436    528    620    712    */
   /*---------------------------------------------
 					Index Start 
 -----------------------------------------------*/
-	
+  #About .block img {
+    width: 50%;
+  }	
   /*--
 	wrapper Start 
 --*/
@@ -210,8 +212,8 @@ px      68    160    252    */
 	About Start
 --*/
   #About {
-    padding-top: 10%;
-    padding-bottom: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
   }
   #About .block h2 {
     text-align: left;
@@ -232,11 +234,11 @@ px      68    160    252    */
     padding-top: 10%;
     padding-bottom: 10%;
   }
-  #feature .block h2 {
+  #feature h2 {
     text-align: left;
     font-size: 120%;
   }
-  #feature .block p {
+  #feature p {
     padding-top: 2%;
     line-height: 170%;
   }
