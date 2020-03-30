@@ -398,5 +398,5 @@ px      68    160    252    344    436    */
 	Overrides styles for devices with a 
 	device-pixel-ratio of 2+, such as iPhone 4.
 -----------------------------------------------    */
-@media only screen and (max-device-width : 480px) {#slider{background-attachment: scroll;}}
-@media only screen and (max-device-width : 480px) {#feature{background-attachment: scroll;}}
+@media only screen and (max-device-width : 480px) and (max-device-height : 900px) {#slider{background-attachment: scroll;}}
+@media only screen and (max-device-width : 480px) and (max-device-height : 900px) {#feature{background-attachment: scroll;}}
