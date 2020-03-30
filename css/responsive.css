@@ -176,17 +176,18 @@ px      68    160    252    */
     margin-bottom: 0px;
   }
   #slider {
-    padding-top: 20%;
-    padding-bottom: 25%;
+    padding-top: 25%;
+    padding-bottom: 20%;
   }
   #slider .block {
     padding-left: 0px;
   }
   #slider .block h1 {
-    font-size: 20px;
+    font-size: 120%;
+    letter-spacing: 5px;
   }
   #slider .block p {
-    font-size: 13px;
+    font-size: 80%;
   }
   /*--
 	wrapper Start 
