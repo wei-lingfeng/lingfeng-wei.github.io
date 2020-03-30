@@ -426,7 +426,7 @@ px      68    160    252    344    436    */
 -----------------------------------------------    */
 @media only screen and (max-device-width : 897px) and (min-device-width: 350px) {
   #slider {
-    background-size: 150% auto;
+    background-size: 152% auto;
     background-position-x: center;
   }
 
