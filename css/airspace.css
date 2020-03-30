@@ -110,7 +110,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background-position: 10% 0%;
   padding: 20% 0 25% 0;
   position: relative;
-  overflow: visible;
+  overflow-y: scroll;
 }
 #slider:before {
   content: "";
