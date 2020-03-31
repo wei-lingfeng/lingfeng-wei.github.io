@@ -823,16 +823,12 @@ footer .footer-manu ul li a:hover {
 
 .image-box {	
     float: right;
-    width: 25%;
-    margin-top: 3%;
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-bottom: 3%;
+    width: 30%;
     vertical-align: middle;
 }
 
 .text-box {
   float:left;
-  width:75%;
+  width:62%;
   vertical-align: middle;
 }
