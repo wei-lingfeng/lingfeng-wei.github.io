@@ -222,8 +222,15 @@ px      68    160    252    */
     padding-top: 2%;
     line-height: 170%;
   }
-  .module .block img {
-    width: 50%;
+  @media only screen and (orientation:portrait) {
+    .module .block img {
+      width: 50%;
+    }
+  }
+  @media only screen and (orientation:landscape) {
+    .module .block img {
+      width: 30%;
+    }
   }
 
 /*--
