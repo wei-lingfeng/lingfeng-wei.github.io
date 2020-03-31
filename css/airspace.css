@@ -157,7 +157,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-top: 35px;
   line-height: 27px;
   margin: 0;
-  text-align: center;
+  text-align: left;
   color: darkslategray;
 }
 .module .block p {
