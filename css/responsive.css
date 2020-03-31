@@ -218,6 +218,7 @@ px      68    160    252    */
   }
   .module .block h2 {
     font-size: 120%;
+    padding-top: 10%;
   }
   .module .block p {
     padding-top: 2%;
