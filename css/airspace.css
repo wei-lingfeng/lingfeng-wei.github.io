@@ -830,5 +830,6 @@ footer .footer-manu ul li a:hover {
 .text-box {
   float:left;
   width:62%;
+  text-align: justify;
   vertical-align: middle;
 }
