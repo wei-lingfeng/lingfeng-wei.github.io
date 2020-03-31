@@ -159,11 +159,24 @@ font header .navbar-default .navbar-nav li a:hover {
   text-align: left;
   color: darkslategray;
 }
+.module h2 {
+  line-height: 27px;
+  margin: 0;
+  text-align: left;
+  color: darkslategray;
+}
 .module .block p {
   color: #7B7B7B;
   padding-top: 20px;
   text-align: justify;
 }
+
+.module p {
+  color: #7B7B7B;
+  padding-top: 20px;
+  text-align: justify;
+}
+
 .module .block img {
   display:block;
   margin-left: auto;
