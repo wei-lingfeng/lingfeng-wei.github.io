@@ -220,7 +220,15 @@ px      68    160    252    */
     font-size: 120%;
     padding-top: 10%;
   }
+  .module h2 {
+    font-size: 120%;
+    padding-top: 10%;
+  }
   .module .block p {
+    padding-top: 2%;
+    line-height: 190%;
+  }
+  .module p {
     padding-top: 2%;
     line-height: 190%;
   }
@@ -228,9 +236,16 @@ px      68    160    252    */
     .module .block img {
       width: 50%;
     }
+    .module img {
+      width: 50%;
+    }
   }
   @media only screen and (orientation:landscape) {
     .module .block img {
+      padding-top: 5%;
+      width: 30%;
+    }
+    .module img {
       padding-top: 5%;
       width: 30%;
     }
