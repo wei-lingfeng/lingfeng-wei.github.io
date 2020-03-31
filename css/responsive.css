@@ -226,11 +226,11 @@ px      68    160    252    */
   }
   .module .block p {
     padding-top: 2%;
-    line-height: 190%;
+    line-height: 170%;
   }
   .module p {
     padding-top: 2%;
-    line-height: 190%;
+    line-height: 170%;
   }
   @media only screen and (orientation:portrait) {
     .module .block img {
