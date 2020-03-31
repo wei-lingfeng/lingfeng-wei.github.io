@@ -151,8 +151,8 @@ font header .navbar-default .navbar-nav li a:hover {
 	module Start
 --*/
 .module {
-  padding-top: 10%;
-  padding-bottom: 10%;
+  padding-top: 5%;
+  padding-bottom: 5%;
   padding-left: 6%;
   padding-right: 6%;
 }
