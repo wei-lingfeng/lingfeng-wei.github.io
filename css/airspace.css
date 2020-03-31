@@ -147,11 +147,11 @@ font header .navbar-default .navbar-nav li a:hover {
   text-align: center;
 }
 /*--
-	wrapper Start
+	module Start
 --*/
 .module {
-  padding-top: 150px;
-  padding-bottom: 200px;
+  padding-top: 10%;
+  padding-bottom: 10%;
 }
 .module .block h2 {
   padding-top: 35px;
