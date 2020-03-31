@@ -17,6 +17,7 @@ px      68    160    252    344    436    528    620    712    */
 					Index Start 
 -----------------------------------------------*/
   .module .block img {
+    padding-top: 5%;
     width: 30%;
   }	
   /*--
@@ -229,6 +230,7 @@ px      68    160    252    */
   }
   @media only screen and (orientation:landscape) {
     .module .block img {
+      padding-top: 5%;
       width: 30%;
     }
   }
