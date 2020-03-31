@@ -152,6 +152,8 @@ font header .navbar-default .navbar-nav li a:hover {
 .module {
   padding-top: 10%;
   padding-bottom: 10%;
+  padding-left: 6%;
+  padding-right: 6%;
 }
 .module .block h2 {
   line-height: 27px;
