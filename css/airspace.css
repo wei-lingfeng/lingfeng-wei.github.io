@@ -821,7 +821,7 @@ footer .footer-manu ul li a:hover {
   color: #000;
 }
 
-.inserted-image {	
+.image-box {	
     float: right;
     width: 25%;
     margin-top: 3%;
@@ -829,4 +829,10 @@ footer .footer-manu ul li a:hover {
     margin-right: 10%;
     margin-bottom: 3%;
     vertical-align: middle;
+}
+
+.text-box {
+  float:left;
+  width:75%;
+  vertical-align: middle;
 }
