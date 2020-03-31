@@ -166,6 +166,11 @@ font header .navbar-default .navbar-nav li a:hover {
   text-align: justify;
 }
 .module .block img {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10%;
+  width: 70%;
 }
 .module .section-title {
   margin-bottom: 0px;
