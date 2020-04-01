@@ -57,12 +57,14 @@ a:active {
   font-size: 28px;
   font-weight: 600;
 }
-.research-title a:hover{
+.research-title {
   text-transform: uppercase;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 150%;
   font-weight: bold;
   padding-top: 5%;
+}
+.research-title a a:hover{
   color: antiquewhite;
 }
 .section-title p {
