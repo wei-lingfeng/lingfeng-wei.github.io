@@ -85,6 +85,10 @@ px      68    160    252    344    436    528    620    712    */
     font-size: 200%;
     letter-spacing: 6px;
   }
+  #slider .block p {
+    font-size: 100%;
+    padding-bottom: 2%;
+  }
   /*--
 	portfolio Start 
 --*/
@@ -200,12 +204,21 @@ px      68    160    252    */
     #slider .block h1 {
       font-size: 120%;
       letter-spacing: 5px;
+      margin-bottom: 0;
+    }
+    #slider .block p {
+      font-size: 60%;
+      padding-bottom: 0;
     }
   }
   @media only screen and (min-width: 450px) {
     #slider .block h1 {
       font-size: 160%;
       letter-spacing: 5px;
+    }
+    #slider .block p {
+      font-size: 80%;
+      padding-bottom: 2%;
     }
   }
 
