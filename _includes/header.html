@@ -1,3 +1,21 @@
+<script>
+  var prevScrollpos = window.pageYOffset;
+  window.onscroll = function() {
+    var currentScrollPos = window.pageYOffset;
+    if (prevScrollpos > currentScrollPos) {
+      document.getElementById("navigation-bar").style.top = "0";
+    } else {
+      if (currentScrollPos > 0) {
+        document.getElementById("navigation-bar").style.top = "-50px";
+      }
+      if (document.getElementById("bs-example-navbar-collapse-1").className == "navbar-collapse collapse in") {
+        document.getElementById("navigation-button").click();
+      }
+    }
+    prevScrollpos = currentScrollPos;
+  }
+</script>
+
 <!-- Header Start -->
 <header id="navigation-bar">
 <div class="container">
