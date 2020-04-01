@@ -111,8 +111,7 @@ header .navbar-default .navbar-nav li a {
   text-transform: uppercase;
 }
 font header .navbar-default .navbar-nav li a:hover {
-  color: lightblue;
-  background-color: snow;
+  color: skyblue
 }
 /*---------------------------------------------
 					Index Start
