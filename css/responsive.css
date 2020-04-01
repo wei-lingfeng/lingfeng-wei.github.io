@@ -196,22 +196,24 @@ px      68    160    252    */
   }
   @media only screen and (max-width: 350px) {
     #slider .block h1 {
-      font-size: 100%;
+      font-size: 120%;
       letter-spacing: 5px;
     }
     #slider .block p {
-      font-size: 50%;
+      font-size: 60%;
+      letter-spacing: 3.5px;
       padding-top: 0;
     }
   }
   @media only screen and (min-width: 350px) and (max-width: 450px) {
     #slider .block h1 {
-      font-size: 120%;
+      font-size: 160%;
       letter-spacing: 5px;
       margin-bottom: 0;
     }
     #slider .block p {
-      font-size: 60%;
+      font-size: 80%;
+      letter-spacing: 3.5px;
     }
   }
   @media only screen and (min-width: 450px) {
