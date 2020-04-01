@@ -64,10 +64,10 @@ a:active {
   font-weight: bold;
   padding-top: 5%;
 }
-#research-title a:hover{
+.research-title a:hover{
   color: skyblue;
 }
-#research-title a{
+.research-title a{
   color: darkslateblue;
 }
 
