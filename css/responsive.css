@@ -224,6 +224,9 @@ px      68    160    252    */
     font-size: 120%;
     padding-top: 10%;
   }
+  .research-title {
+    font-size: 110%;
+  }
   .module .block p {
     padding-top: 2%;
     line-height: 170%;
