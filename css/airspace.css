@@ -65,8 +65,12 @@ a:active {
   padding-top: 5%;
 }
 #research-title a:hover{
-  color: antiquewhite;
+  color: skyblue;
 }
+#research-title a{
+  color: darkslateblue;
+}
+
 .section-title p {
   font-family: 'Volkhov', serif;
   font-style: italic;
