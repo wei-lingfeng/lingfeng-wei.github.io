@@ -3,7 +3,7 @@
  * In airspace, it is called style.css
  * However, style.css now holds additional styles for this jekyll port. (Not written by ThemeFisher)
  * The original style.css is now called airspace.css
- * 
+ *
  */
 
 @import url(//fonts.googleapis.com/css?family=Open+Sans:400,300,600);
@@ -65,7 +65,7 @@ a:active {
   padding-top: 5%;
 }
 .research-title a{
-  color: gray;
+  color: dimgray;
 }
 .research-title a:hover{
   color: darkgray;
@@ -185,15 +185,17 @@ font header .navbar-default .navbar-nav li a:hover {
   color: darkslateblue;
 }
 .module .block p {
-  color: #7B7B7B;
+  color: #2A2A2A;
   padding-top: 20px;
   text-align: justify;
+  font-size: medium;
 }
 
 .module p {
-  color: #7B7B7B;
+  color: #2A2A2A;
   padding-top: 20px;
   text-align: justify;
+  font-size: medium;
 }
 
 .module .block img {
@@ -201,7 +203,7 @@ font header .navbar-default .navbar-nav li a:hover {
   margin-left: auto;
   margin-right: auto;
   padding-top: 5%;
-  width: 60%;
+  width: 50%;
 }
 .module .section-title {
   margin-bottom: 0px;
@@ -857,7 +859,7 @@ footer .footer-manu ul li a:hover {
   color: #000;
 }
 
-.image-box {	
+.image-box {
     float: right;
     width: 30%;
     vertical-align: middle;
